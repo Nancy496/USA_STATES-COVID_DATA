@@ -1,4 +1,4 @@
-# USA_STATES-COVID_DATA
+# USA_STATES-COVID_DATA (Pandas)
 
 # Learning Pandas
 
